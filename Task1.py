@@ -145,3 +145,4 @@ test12()
 
 if __name__ == '__main__':
     test12()
+    test11()
