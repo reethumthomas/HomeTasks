@@ -85,3 +85,6 @@ heights = ['5ft10in', '5ft', '6ft2in', '4in']
 heights_in_meters = list(map(test7, heights))
 
 print(heights_in_meters)
+
+if __name__ == '__main__':
+    test7('5ft10in')
